@@ -1,5 +1,1 @@
-# Course data files from my.wbs stay local (university materials)
-*.csv
-*.xlsx
-*.zip
 .ipynb_checkpoints/

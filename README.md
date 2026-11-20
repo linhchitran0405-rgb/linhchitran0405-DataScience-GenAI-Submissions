@@ -17,5 +17,5 @@ Notes:
 
 - Some red error cells in week 1 are deliberate examples from the course material.
 - `google.colab` upload cells only work inside Colab; the data files were placed next to the notebooks instead, so later cells ran.
-- Course data files from my.wbs are not committed.
+- Seminar data files from my.wbs sit next to the notebooks that use them (the 44 MB week 2 image zip is left out).
 - Original course material: [MJMortensonWarwick/IB2AD0_Data_Science_GenerativeAI](https://github.com/MJMortensonWarwick/IB2AD0_Data_Science_GenerativeAI).
