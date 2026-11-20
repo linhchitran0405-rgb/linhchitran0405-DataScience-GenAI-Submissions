@@ -1,0 +1,5 @@
+,date,product,quantity,cost_price,sale_price,total_cost_price,total_sale_price
+0,2024/01/10,Hoodie,1.0,12.12,15.0,12.12,15.0
+1,2024/01/13,Tote bag,2.0,2.15,9.99,4.3,19.98
+2,2024/01/14,Pencil,10.0,22.45,49.99,224.5,499.90000000000003
+3,2024/01/15,T-shirt,2.0,0.45,2.99,0.9,5.98
