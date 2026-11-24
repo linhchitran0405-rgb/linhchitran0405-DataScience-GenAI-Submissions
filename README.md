@@ -11,7 +11,7 @@ My working copy of the module notebooks (Warwick Business School, 2026-27), run 
 | 5 | Random forests and boosting | 5.01, 5.02 | Run in Colab with WBS files uploaded |
 | 6 | Neural networks and ML in practice | 6.01 to 6.03, 6.X | Run in Colab |
 | 7 | CNNs and self-attention | 7.01, 7.X, seminar 7.01 and 7.02 | 7.X and seminars (coded) run in Colab; 7.01 needs my kaggle.json |
-| 8 | Transformers | 8.01 | To run in Colab on a GPU |
+| 8 | Transformers | 8.01 | To run in Colab on a T4 GPU (free GPU not available on 24 Nov) |
 
 Notes:
 
