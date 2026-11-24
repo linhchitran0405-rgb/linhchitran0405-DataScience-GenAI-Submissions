@@ -5,12 +5,12 @@ My working copy of the module notebooks (Warwick Business School, 2026-27), run 
 | Week | Topic | Notebooks | Status |
 | --- | --- | --- | --- |
 | 1 | Python basics | 1.01 to 1.11 | Run in Colab |
-| 2 | pandas and data preparation | 2.01 to 2.05 | Run in Colab (2.04, 2.05 with WBS files uploaded); 2.02 to re-save |
+| 2 | pandas and data preparation | 2.01 to 2.05 | Run in Colab (2.04, 2.05 with WBS files uploaded) |
 | 3 | Statistical EDA | 3.0X | Run in Colab |
 | 4 | Regression and decision trees | 4.01, 4.02 | Run in Colab |
 | 5 | Random forests and boosting | 5.01, 5.02 | Run in Colab with WBS files uploaded |
-| 6 | Neural networks and ML in practice | 6.01 to 6.03, 6.X | To run in Colab |
-| 7 | CNNs and self-attention | 7.01, 7.X, seminar 7.01 and 7.02 | Seminars coded and run in Colab; 7.X to run; 7.01 needs my kaggle.json |
+| 6 | Neural networks and ML in practice | 6.01 to 6.03, 6.X | Run in Colab |
+| 7 | CNNs and self-attention | 7.01, 7.X, seminar 7.01 and 7.02 | 7.X and seminars (coded) run in Colab; 7.01 needs my kaggle.json |
 | 8 | Transformers | 8.01 | To run in Colab on a GPU |
 
 Notes:
